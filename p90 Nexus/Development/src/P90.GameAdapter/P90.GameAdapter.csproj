@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><GameRoot>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\..\'))</GameRoot></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\P90.Core\P90.Core.csproj" />
+    <Reference Include="Assembly-CSharp" HintPath="$(GameRoot)BepInEx\interop\Assembly-CSharp.dll" Private="false" />
+    <Reference Include="Mirror" HintPath="$(GameRoot)BepInEx\interop\Mirror.dll" Private="false" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(GameRoot)BepInEx\interop\UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="Il2Cppmscorlib" HintPath="$(GameRoot)BepInEx\interop\Il2Cppmscorlib.dll" Private="false" />
+    <Reference Include="Il2CppInterop.Runtime" HintPath="$(GameRoot)BepInEx\core\Il2CppInterop.Runtime.dll" Private="false" />
+  </ItemGroup>
+</Project>

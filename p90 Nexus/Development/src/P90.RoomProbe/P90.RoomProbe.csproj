@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><GameRoot>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\..\'))</GameRoot></PropertyGroup>
+  <ItemGroup>
+    <Reference Include="P90.API" HintPath="$(GameRoot)sdk/lib/P90.API.dll" Private="false" />
+    <Reference Include="P90.Core" HintPath="$(GameRoot)BepInEx/plugins/P90.Loader/P90.Core.dll" Private="false" />
+    <Reference Include="UnityEngine.PhysicsModule" HintPath="$(GameRoot)BepInEx/interop/UnityEngine.PhysicsModule.dll" Private="false" />
+    <Reference Include="Mirror.Components" HintPath="$(GameRoot)BepInEx/interop/Mirror.Components.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(GameRoot)BepInEx/core/0Harmony.dll" Private="false" />
+    <Reference Include="BepInEx.Core" HintPath="$(GameRoot)BepInEx/core/BepInEx.Core.dll" Private="false" />
+    <Reference Include="BepInEx.Unity.IL2CPP" HintPath="$(GameRoot)BepInEx/core/BepInEx.Unity.IL2CPP.dll" Private="false" />
+    <Reference Include="Il2CppInterop.Runtime" HintPath="$(GameRoot)BepInEx/core/Il2CppInterop.Runtime.dll" Private="false" />
+    <Reference Include="Assembly-CSharp" HintPath="$(GameRoot)BepInEx/interop/Assembly-CSharp.dll" Private="false" />
+    <Reference Include="Mirror" HintPath="$(GameRoot)BepInEx/interop/Mirror.dll" Private="false" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="$(GameRoot)BepInEx/interop/UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="Il2Cppmscorlib" HintPath="$(GameRoot)BepInEx/interop/Il2Cppmscorlib.dll" Private="false" />
+  </ItemGroup>
+</Project>

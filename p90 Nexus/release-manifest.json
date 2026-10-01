@@ -1,0 +1,1752 @@
+[
+  {
+    "Path": "CHANGELOG.ru.md",
+    "Bytes": 6033,
+    "SHA256": "47C4D7F788AB8A4CCBE0E92036B25D5AE2FCEE3606F36CE5459B4236544AC713"
+  },
+  {
+    "Path": "Development\\README.ru.md",
+    "Bytes": 828,
+    "SHA256": "DFC2203D94AB5735080702D90233150844B33AF2229CEDD8D7780C22DB60D0E2"
+  },
+  {
+    "Path": "Development\\scripts\\Build-BootstrapProbe.ps1",
+    "Bytes": 1110,
+    "SHA256": "C139B3503D1F23844FB9584E4EF28CC029EA7B1538322F72115B49251C8F7996"
+  },
+  {
+    "Path": "Development\\scripts\\Build-Core.ps1",
+    "Bytes": 2349,
+    "SHA256": "49F106D0F8723D2821EACF863BC0D8DD8351608219224244C214C184C530BDCA"
+  },
+  {
+    "Path": "Development\\scripts\\Build-Sdk.ps1",
+    "Bytes": 926,
+    "SHA256": "E7312E902358907291FC3F7C507DFD593D6C4289F386A6C852FC1CB7E717C6E7"
+  },
+  {
+    "Path": "Development\\scripts\\Install-CoreUpdate.ps1",
+    "Bytes": 1896,
+    "SHA256": "988909F06ED30607657A18F80F37258D498A1E96AED76A8FACD874A45955D656"
+  },
+  {
+    "Path": "Development\\scripts\\P90-Console.ps1",
+    "Bytes": 13330,
+    "SHA256": "458149875FF61639F87D34C4EA410FD5F816E2DBD1F023DB01D65E6EAFE79AEA"
+  },
+  {
+    "Path": "Development\\scripts\\P90.ps1",
+    "Bytes": 2709,
+    "SHA256": "E65CD9DC7223F3C1A56369BD8C83A2FD7BED5A555E459DE11404A51740F4E7B5"
+  },
+  {
+    "Path": "Development\\scripts\\Package-Nexus.ps1",
+    "Bytes": 4478,
+    "SHA256": "206A9D1E761490C2538E3F1F964954DF6A545281E4A1196A44C8A154EA4E879B"
+  },
+  {
+    "Path": "Development\\scripts\\Test-BootstrapProbe.ps1",
+    "Bytes": 3654,
+    "SHA256": "A4A277B7A1DDA5CA6BE83017C83245F9B7DE95521F40A5B743DB643DCDDCBCBD"
+  },
+  {
+    "Path": "Development\\scripts\\Test-Console.ps1",
+    "Bytes": 5844,
+    "SHA256": "B982B00739C03652E9946EEA4F2897A598208B5B1909275550647BB705676E59"
+  },
+  {
+    "Path": "Development\\scripts\\Test-Control.ps1",
+    "Bytes": 4043,
+    "SHA256": "3F08A9B314B6CD5995F2509F0174321A99B4743AAF87F698D7A6AF1AB7BC5C1C"
+  },
+  {
+    "Path": "Development\\scripts\\Test-ControlCompatibility.ps1",
+    "Bytes": 2294,
+    "SHA256": "9AC6A74B0FD3BBEA0E3F2C9331ABF2BAC4B16686ACE4EC8FCC2A4AAA0CAE9455"
+  },
+  {
+    "Path": "Development\\scripts\\Test-Core.ps1",
+    "Bytes": 3488,
+    "SHA256": "B34702697DE7C0FF4CE855FF6F7E19EAEF1BA9179F8D7EA11A6787712C98F836"
+  },
+  {
+    "Path": "Development\\scripts\\Test-GameAdapter.ps1",
+    "Bytes": 4443,
+    "SHA256": "AADEC4A5B2EE1A98EE3995063DB79B665EFDF403F747B6409A52166A677E1F14"
+  },
+  {
+    "Path": "Development\\scripts\\Test-GameBaseline.ps1",
+    "Bytes": 3530,
+    "SHA256": "59EB71F4C999C4C2F62AED224F08924FA704E6BC0DB2D56EC9400BBE416EF524"
+  },
+  {
+    "Path": "Development\\scripts\\Test-Sdk.ps1",
+    "Bytes": 2958,
+    "SHA256": "DA1386EE99D5A49EBD7D84D96D7B84FD8F70D33DFF1291EE385D9C853DA6F2BD"
+  },
+  {
+    "Path": "Development\\src\\Directory.Build.props",
+    "Bytes": 281,
+    "SHA256": "531E511F70BC4AE6A1179C70AD21FC27F771D7D8A54205EEFBD016C619A81DEA"
+  },
+  {
+    "Path": "Development\\src\\NuGet.Config",
+    "Bytes": 197,
+    "SHA256": "AEC93B5637AB6D62470979A008990A4A336A287AB83A3F2541849AE735674055"
+  },
+  {
+    "Path": "Development\\src\\P90.API\\Contracts.cs",
+    "Bytes": 2593,
+    "SHA256": "631B3CDAFECB812033373DD229270A56A473C3B56E010DE7D3967E359C143345"
+  },
+  {
+    "Path": "Development\\src\\P90.API\\Game.cs",
+    "Bytes": 925,
+    "SHA256": "332D42E31BC3E994E6B6B9A63C039C818BE8040D4F7019A82CD2D60AB3A4A9B6"
+  },
+  {
+    "Path": "Development\\src\\P90.API\\P90.API.csproj",
+    "Bytes": 36,
+    "SHA256": "8D654C44B7BEBB6B31A9F2F606927F45B5072193ADC4EEF8CCE3F3CF3B278DF3"
+  },
+  {
+    "Path": "Development\\src\\P90.BootstrapProbe\\BootstrapProbe.cs",
+    "Bytes": 5246,
+    "SHA256": "C05B01FAAED6C28157D5C6ED2510112329ED7BF89E620CBED739583FD97DD4F5"
+  },
+  {
+    "Path": "Development\\src\\P90.BootstrapProbe\\P90.BootstrapProbe.csproj",
+    "Bytes": 1178,
+    "SHA256": "E07835E86A7750921448C9F6D4FF7E98C480BA3B4AF0A0830BB8043908231383"
+  },
+  {
+    "Path": "Development\\src\\P90.Core.Tests\\P90.Core.Tests.csproj",
+    "Bytes": 685,
+    "SHA256": "3145E64BF0192F26785CA200524D88B84DDD9C3B6D15B116609B642681BEB0FB"
+  },
+  {
+    "Path": "Development\\src\\P90.Core.Tests\\Program.cs",
+    "Bytes": 18208,
+    "SHA256": "7A511105D06657C2B0EFA486B5097E944CE3C5CD62DF46EAD13E8CD3BCDFAD2F"
+  },
+  {
+    "Path": "Development\\src\\P90.Core\\LocalControl.cs",
+    "Bytes": 5368,
+    "SHA256": "2716F8FFE8F5EC24432B15F2DB013DF658A710DDBFA4A0B88F0531A4361C4267"
+  },
+  {
+    "Path": "Development\\src\\P90.Core\\P90.Core.csproj",
+    "Bytes": 185,
+    "SHA256": "1E58A343B087AE21402A9E65FC24AC4F266DC81F5B516B850F3936742A944EC1"
+  },
+  {
+    "Path": "Development\\src\\P90.Core\\PluginHost.cs",
+    "Bytes": 17618,
+    "SHA256": "0135B42AA0825C6DCF3004B5E12C88D1DF92ABD286CB8E41B07A7AC3FAAA1427"
+  },
+  {
+    "Path": "Development\\src\\P90.Core\\ServerTracker.cs",
+    "Bytes": 1755,
+    "SHA256": "F7DA7E2A83F9B14662804E8490940323D878430817A201E6B86737990A1E0CA7"
+  },
+  {
+    "Path": "Development\\src\\P90.DiscoveryFixture.Support\\P90.DiscoveryFixture.Support.csproj",
+    "Bytes": 130,
+    "SHA256": "3DCB465811DC0314E03E374C1957F3D5F649C1704358B8F77330F1A3EEB910BC"
+  },
+  {
+    "Path": "Development\\src\\P90.DiscoveryFixture.Support\\Words.cs",
+    "Bytes": 123,
+    "SHA256": "51646242C484A09CC74F66CEBD87FD6A3617AE2B398E89EBDE744131C4149626"
+  },
+  {
+    "Path": "Development\\src\\P90.DiscoveryFixture\\P90.DiscoveryFixture.csproj",
+    "Bytes": 322,
+    "SHA256": "FFD3428C09C55C9EA50A326D02327D64279B6FF094DB648D91B942195AB03DC9"
+  },
+  {
+    "Path": "Development\\src\\P90.DiscoveryFixture\\Plugin.cs",
+    "Bytes": 348,
+    "SHA256": "75D86182B45136837F58FA73C6F5E813FD04237DEB6E40574280704204F61ED1"
+  },
+  {
+    "Path": "Development\\src\\P90.GameAdapter\\BuildGuard.cs",
+    "Bytes": 1538,
+    "SHA256": "AE511D31F44005D54A505CA563508257D82349F7BBE8DC184A24F4F6FC646C85"
+  },
+  {
+    "Path": "Development\\src\\P90.GameAdapter\\GameServer.cs",
+    "Bytes": 3550,
+    "SHA256": "A8CF8189276A2B3AC1FC2976DC7AFD736EB7D3088F502D7BEEC1CEAC7C15051A"
+  },
+  {
+    "Path": "Development\\src\\P90.GameAdapter\\P90.GameAdapter.csproj",
+    "Bytes": 854,
+    "SHA256": "012097A90CFBF76175BFFD3938841C86C411751F75C11FC8C5D9F5D90F901419"
+  },
+  {
+    "Path": "Development\\src\\P90.GameBaseline\\GameBaseline.cs",
+    "Bytes": 2268,
+    "SHA256": "2DD972AE84F68AF98337F0DB7DA94AE4A23C31E1B35EDB8768647E98E665FFDE"
+  },
+  {
+    "Path": "Development\\src\\P90.GameBaseline\\P90.GameBaseline.csproj",
+    "Bytes": 1025,
+    "SHA256": "352838CCDF4159784AFD2E81FD1D6A3797BC4997CF59D4CB37C550205AA5050F"
+  },
+  {
+    "Path": "Development\\src\\P90.Loader\\AdapterTest.cs",
+    "Bytes": 4957,
+    "SHA256": "E77A77535AFF2975AB662F7A389680EF03AFAA2D9618F33351A830553DB57584"
+  },
+  {
+    "Path": "Development\\src\\P90.Loader\\CoreLoader.cs",
+    "Bytes": 8562,
+    "SHA256": "626CEF19879508B059C8DB83C4B9F4C8D69DB64FAA2A6DED104E4AD421C1A6A4"
+  },
+  {
+    "Path": "Development\\src\\P90.Loader\\P90.Loader.csproj",
+    "Bytes": 1440,
+    "SHA256": "C1B6B8C2E1EAFC20B83395D9903FEE0C345B0B9A9937BB5BADB5F0E33D17776C"
+  },
+  {
+    "Path": "Development\\src\\P90.RoomProbe\\P90.RoomProbe.csproj",
+    "Bytes": 1595,
+    "SHA256": "EAA8913929609C66EF892FF9F4B6761434600B5A4BF5CF1D99DAC86211078907"
+  },
+  {
+    "Path": "Development\\src\\P90.RoomProbe\\Probe.cs",
+    "Bytes": 6799,
+    "SHA256": "76BC80228EE212ECAB75402DA3DB52D87433114961FC776D97C071C31E31B2EE"
+  },
+  {
+    "Path": "Development\\src\\P90.RoomProbe\\RoomsTest.cs",
+    "Bytes": 11639,
+    "SHA256": "8A203E8A32DB50D0616D83AA142B3DB8C9FB546D8535CFFB047135C875760060"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms.Tests\\P90.Rooms.Tests.csproj",
+    "Bytes": 334,
+    "SHA256": "1A7CAD33B20DDD7016667D8CF3D160D0D4709EF8B229B6C3B8211FA0CDA0CCA8"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms.Tests\\Program.cs",
+    "Bytes": 3617,
+    "SHA256": "97972BE1886138E7FFD6C713ED314A006C14F2E9A321D873AA6E7835F6DAE06C"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms\\P90.Rooms.csproj",
+    "Bytes": 1350,
+    "SHA256": "72F3DB2E51E80AE1F5CCC8EAE81A4248C2F57666559370EA4563ECAECB72F802"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms\\RoomFiles.cs",
+    "Bytes": 3012,
+    "SHA256": "B40771E9233C4C152F8EF8068B5E912669E60EF1D628DE6420DF180ED0308076"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms\\RoomLayout.cs",
+    "Bytes": 3289,
+    "SHA256": "2D3CBA327E33C8629E29DC61241BA8EF46F907FA61F71F3C414F971F9F233797"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms\\RoomsPlugin.cs",
+    "Bytes": 27840,
+    "SHA256": "CF8E70E6C4B6BE34B798020CB299C2D03ECB6A5C7FA17BD847607C984AF93920"
+  },
+  {
+    "Path": "Development\\src\\P90.Rooms\\Settings.cs",
+    "Bytes": 4959,
+    "SHA256": "E8291BB0D563790857436505635F9BE4F4B439B3181CEC3AA7D4954C9A88BBB8"
+  },
+  {
+    "Path": "Development\\src\\P90.Samples.Diagnostics\\DiagnosticsPlugin.cs",
+    "Bytes": 1370,
+    "SHA256": "445A87BADA24C6F14B121F54DB9792A6953C9886A698E30320A7BADD6E778B41"
+  },
+  {
+    "Path": "Development\\src\\P90.Samples.Diagnostics\\P90.Samples.Diagnostics.csproj",
+    "Bytes": 123,
+    "SHA256": "6CD6E3F6D907995F48A44D70F09B68E33E6B9FE70F0A1DDDF6176CC0AB02CC4B"
+  },
+  {
+    "Path": "Development\\src\\P90.Samples.Lifecycle\\LifecyclePlugin.cs",
+    "Bytes": 897,
+    "SHA256": "D4D1380932CF46F6FB9297C8CA388DB95137EC1169CB8FCCB100F7275089CF98"
+  },
+  {
+    "Path": "Development\\src\\P90.Samples.Lifecycle\\P90.Samples.Lifecycle.csproj",
+    "Bytes": 123,
+    "SHA256": "6CD6E3F6D907995F48A44D70F09B68E33E6B9FE70F0A1DDDF6176CC0AB02CC4B"
+  },
+  {
+    "Path": "Development\\src\\P90.Samples.ServerDiagnostics\\P90.Samples.ServerDiagnostics.csproj",
+    "Bytes": 127,
+    "SHA256": "1FAB20F378312EDE711AAE671045DA280D9B6053893D2EECC28100543A0E7C32"
+  },
+  {
+    "Path": "Development\\src\\P90.Samples.ServerDiagnostics\\ServerDiagnosticsPlugin.cs",
+    "Bytes": 2441,
+    "SHA256": "465EFEB2E1A66AD9F910EAD57E39001433901960A0508BCA8BC2E7A09B9A6F60"
+  },
+  {
+    "Path": "Development\\src\\P90.SdkVerifier\\P90.SdkVerifier.csproj",
+    "Bytes": 191,
+    "SHA256": "F3A7AFC8456DBE18D9E6BA52C93EE4FD03744C1019BDCA4A7BB84B50CEA078D3"
+  },
+  {
+    "Path": "Development\\src\\P90.SdkVerifier\\Program.cs",
+    "Bytes": 2405,
+    "SHA256": "764B854ABF37A3751D00B9B8F282FE43807396FF994ECB863F45F35939F330B4"
+  },
+  {
+    "Path": "Documentation\\API.ru.md",
+    "Bytes": 18328,
+    "SHA256": "9B96B21200C1DF6D2D3ABA0AE2048970F27F9A96F5215AE115085CD5723FDB34"
+  },
+  {
+    "Path": "Documentation\\CHANGELOG.ru.md",
+    "Bytes": 6033,
+    "SHA256": "47C4D7F788AB8A4CCBE0E92036B25D5AE2FCEE3606F36CE5459B4236544AC713"
+  },
+  {
+    "Path": "Documentation\\CLIENT-TEST.ru.md",
+    "Bytes": 6644,
+    "SHA256": "9C0F1EA9678BB6DAD0825A3D03CE7ECA766B8D07DD7AAB31064AD8493E2694A6"
+  },
+  {
+    "Path": "Documentation\\CONSOLE.ru.md",
+    "Bytes": 8076,
+    "SHA256": "D9C10C9EB9BD6D775AB030A6137CBA242624BDDE95E275BC115FF8C69E8769E5"
+  },
+  {
+    "Path": "Documentation\\CORE-DEVELOPMENT.ru.md",
+    "Bytes": 14690,
+    "SHA256": "233AD88A19DE32D3397DC3C728FF2AB1D3C4E45E2C4661EE0E3DBA92FE11490E"
+  },
+  {
+    "Path": "Documentation\\OPERATIONS.ru.md",
+    "Bytes": 13563,
+    "SHA256": "47865A04FA5A7A491F6B46D237FDC675453986C7A9D2ADCF2AB650AE83F8FB61"
+  },
+  {
+    "Path": "Documentation\\PLUGIN-DEVELOPMENT.ru.md",
+    "Bytes": 12606,
+    "SHA256": "5156BB64C35284C03FCF3AD19778BF3031D4ED6C3BDF608FD840C4CEC84E8DC5"
+  },
+  {
+    "Path": "Documentation\\PLUGINS.ru.md",
+    "Bytes": 840,
+    "SHA256": "F3456BCD1C0B8A875D8E6BEFAC11A36A1C9E410A0E2A61AD83578F7CF2A6265E"
+  },
+  {
+    "Path": "Documentation\\README.ru.md",
+    "Bytes": 5080,
+    "SHA256": "10FD8745EEE914D6B5BD9958F87B8655D821522373E8AC0D952125BA5FD58D2E"
+  },
+  {
+    "Path": "Documentation\\RELEASE.ru.md",
+    "Bytes": 9324,
+    "SHA256": "697D14EE2451BB79327D7124E3ADB09BCA0A933A861588BB31B0CA7B598EF298"
+  },
+  {
+    "Path": "Documentation\\ROOMS.ru.md",
+    "Bytes": 33451,
+    "SHA256": "46329D1E13A7720E02B3B29A686F7E6827196E6C020A009B950C21DAC101A2DB"
+  },
+  {
+    "Path": "GameFiles\\.doorstop_version",
+    "Bytes": 5,
+    "SHA256": "75A2F501000D4FE28F74BC7EE66DAE5581959D28B6C44F0C1B0C05CD5BA261E6"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\config\\BepInEx.cfg",
+    "Bytes": 7542,
+    "SHA256": "5B57D9FC73B6B4312A35A4D6A13915F8B5DDC9F499794461C9CDD9480CEE6EA5"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\0Harmony.dll",
+    "Bytes": 264192,
+    "SHA256": "6C898933B52149E8BCF6722305C7E4D94ADD47C9E53B364096F91721624C0877"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\AsmResolver.dll",
+    "Bytes": 67584,
+    "SHA256": "64B50030B34654F12805EC4D2848551E431C5F0BCD65CD70D6FE2845F715FB12"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\AsmResolver.DotNet.dll",
+    "Bytes": 561664,
+    "SHA256": "045BCDF32427F9BD39BEE2620C470372583935C8E89B360931E467DD191D46D1"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\AsmResolver.PE.dll",
+    "Bytes": 397824,
+    "SHA256": "6BA6D56BF5FD3DD18233B56606A7ED1D42B8C93977B5375716771BF13EA36A1E"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\AsmResolver.PE.File.dll",
+    "Bytes": 40960,
+    "SHA256": "8246433A1A6FB4C012C1814ACEE8A4FF24F3A4FAC593569F6A1E343E68C9D8EE"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\AssetRipper.CIL.dll",
+    "Bytes": 45568,
+    "SHA256": "1EEFF8D76DDA5D65E5145AB0D43A3DAC672E096E5692C47E0382EBB3C7C817F9"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\AssetRipper.Primitives.dll",
+    "Bytes": 29184,
+    "SHA256": "681BA26FD356D9263FDF6AFEB1B8F8506802A9503FFA80C9D21E0C4A46743A28"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Core.dll",
+    "Bytes": 138240,
+    "SHA256": "1D492EEECD40CD4FEB7DC35AFF7F08839928AC1637D4993BBDE0060DE36B7E0A"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Core.xml",
+    "Bytes": 91631,
+    "SHA256": "6093581EDD3F53F496D0EBDC1505199B3C88E7C8A965D506CF4305BC1173862A"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Preloader.Core.dll",
+    "Bytes": 52736,
+    "SHA256": "1A2824268A24D3ECA2931DAA7B7B378D7338A542502BCF9E2261919095B1EB97"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Preloader.Core.xml",
+    "Bytes": 16386,
+    "SHA256": "F7E68941A96A6BBB42237B428F0B38077AC139597AC24C7CBB51E661F51AE3F1"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Unity.Common.dll",
+    "Bytes": 13824,
+    "SHA256": "1E15D7ADA3416D9FECB4514377CA297783AC25877BD53E0FD7DDD32A6CD37369"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Unity.Common.xml",
+    "Bytes": 1196,
+    "SHA256": "D3164C64D07FFFBD4E5A28DD4A7201D4971BF15F5D471FC919D4707009FC9114"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Unity.IL2CPP.dll",
+    "Bytes": 102912,
+    "SHA256": "46CF1EF802BDF8CB6587FC1E4D98F7AF1073A60487B39A64E230E6F6E4C23AEC"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Unity.IL2CPP.dll.config",
+    "Bytes": 456,
+    "SHA256": "EA4436344D4CC4C29F3382655C99828ACE3DF659107CB2E6B985227027E48CD6"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\BepInEx.Unity.IL2CPP.xml",
+    "Bytes": 9726,
+    "SHA256": "9FF8FA972A053B2BE0C5B6C0A7DA9C2267D2DFB9656BE353C07355B07A26CCF1"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Cpp2IL.Core.dll",
+    "Bytes": 394240,
+    "SHA256": "A7AE866298472BFA5176C1B5B71ADFA9FE6E2F1DEEF7B8D50F063C0E2C0BA258"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Disarm.dll",
+    "Bytes": 139264,
+    "SHA256": "40E804C35369825884534734725D06831A534759478C8D9F3F908D80779A1A93"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\dobby.dll",
+    "Bytes": 205312,
+    "SHA256": "8015DE7D867245A1095D13947A63763878E4CF5FD3D3089B63CC39200B055DED"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Gee.External.Capstone.dll",
+    "Bytes": 295936,
+    "SHA256": "18F9CFBFD10B479143A46B3E417CCFCE4A62D4C2770DA9ED12D553A0B326302C"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Iced.dll",
+    "Bytes": 1896448,
+    "SHA256": "F058C01321B4CDFC9B9151879E88E59571C8D0BA176FBCF95BC936A8F3D073ED"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Il2CppInterop.Common.dll",
+    "Bytes": 41472,
+    "SHA256": "070E04F2276A8963A6D2A7EB52D43B644F3AE9AA3816C34541124D3862F1B37F"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Il2CppInterop.Generator.dll",
+    "Bytes": 219648,
+    "SHA256": "95364BF2686F50D114784E482A0E78C472F6A649D07EA31A075328B2B756899D"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Il2CppInterop.HarmonySupport.dll",
+    "Bytes": 26624,
+    "SHA256": "F7612EA2E5A4D473B771F34EE3B20CF32DC0C4ECEA0185416474999A17FBCC07"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Il2CppInterop.Runtime.dll",
+    "Bytes": 284672,
+    "SHA256": "65AB051A681C2C1E52DF7596FF738BE401AAE72CFF882FF18241CF54A3EA38A4"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\LibCpp2IL.dll",
+    "Bytes": 312320,
+    "SHA256": "DD3BD5417CAC3FD203B906A90DBAE6719136E61F43C2B4EED55F56242BB10A14"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Mono.Cecil.dll",
+    "Bytes": 356864,
+    "SHA256": "769A59793D4B8885BBBFBC5AEE8F57A0D4E34D275C56C60C03994309B87F67E9"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Mono.Cecil.Mdb.dll",
+    "Bytes": 39424,
+    "SHA256": "61637F9940E5E336571CBF945BE0F36D6D6050E06288DF0F0232D93B26F0BDE7"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Mono.Cecil.Pdb.dll",
+    "Bytes": 89600,
+    "SHA256": "A5249A04AD8FD7DFD47E4D0A620AED0F7EB6051E1DDEC102C541CA3E12F6E2A8"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\Mono.Cecil.Rocks.dll",
+    "Bytes": 24576,
+    "SHA256": "273292BABD45F9F34DE5054BD9CDFE1D859A7DBF6F4AD5974FE4EAD70698ED5B"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\MonoMod.Backports.dll",
+    "Bytes": 29184,
+    "SHA256": "CDD6E9F7BCDB98D2C002F63BFBE85AE80EA36261190A741E64283D769A6C6502"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\MonoMod.ILHelpers.dll",
+    "Bytes": 4096,
+    "SHA256": "0081403BDCEF3340F78C7CCDED0BE6AE0507B397EE8B9980B44F01BF9F93AED1"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\MonoMod.RuntimeDetour.dll",
+    "Bytes": 112640,
+    "SHA256": "1B3D55F53CB9F9F2550DAED4DFD300B247D71698A0ACE82BC7B9FF38D563594F"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\MonoMod.Utils.dll",
+    "Bytes": 193024,
+    "SHA256": "72A5B4249985873D7ECB160CBBED7A1E6540A38EE7618C72C64B9CB068C1438A"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\SemanticVersioning.dll",
+    "Bytes": 34816,
+    "SHA256": "A5B57607225A0EBDE049E93469F49E5B2D07A7D602A03864CE3A72CCF57103A2"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\StableNameDotNet.dll",
+    "Bytes": 28160,
+    "SHA256": "280373B93A140395489D714703AC61F8D02C7AA07AC6E34024F8F0E26901325A"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\core\\WasmDisassembler.dll",
+    "Bytes": 22528,
+    "SHA256": "F837036E0DB02D6F3DDE76DE573FD9A847A1175D61818607E40C46952F5C66C0"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\plugins\\P90.Loader\\P90.API.dll",
+    "Bytes": 20992,
+    "SHA256": "373515F77F4045B9EF9DBEF9887AFE0C530B96699038FFF495A8DC168C5F888A"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\plugins\\P90.Loader\\P90.Core.dll",
+    "Bytes": 43520,
+    "SHA256": "CEDA57D73DEFA28BF5CC55C57AB832A39E71A878B85488BE55011CF787F37E67"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\plugins\\P90.Loader\\P90.GameAdapter.dll",
+    "Bytes": 11264,
+    "SHA256": "869A54BC57EC60A38C1757AE5FC2677ECE4477DBEAAAFCDA9434EBB5DAB2B1E0"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\plugins\\P90.Loader\\P90.Loader.dll",
+    "Bytes": 31232,
+    "SHA256": "87A6429EEDE3A550095172573798220E970FA7ED4C5EF38FB07D7AD00E62DFE0"
+  },
+  {
+    "Path": "GameFiles\\BepInEx\\unity-libs\\2022.3.16.zip",
+    "Bytes": 1884516,
+    "SHA256": "C3999B69134DA2BDCA262AE1B4A1306E09278106C516C6563757B3240B818C22"
+  },
+  {
+    "Path": "GameFiles\\changelog.txt",
+    "Bytes": 5752,
+    "SHA256": "7020270524C1788CD3E7AF2CBA8A4F2E4BCC9F7FCB522679A1221FE2BB34BC4F"
+  },
+  {
+    "Path": "GameFiles\\doorstop_config.ini",
+    "Bytes": 1637,
+    "SHA256": "7DAEBB02054747FAEE66C875A778E0E8D54DAD24DD460E1FB69AA31378D9EA8F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\.version",
+    "Bytes": 49,
+    "SHA256": "4052AB33B00D0411FC9CE103AC9D51564CF8630FDDB7464D82DDCC168D4D302C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\clretwrc.dll",
+    "Bytes": 304768,
+    "SHA256": "825E796BA50A5656B80AEFD3B53E44585F0CAA33C46AC115BAB0E09A67501354"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\clrjit.dll",
+    "Bytes": 1436288,
+    "SHA256": "6521495C6C1D0EB29402FA4A79667036D56BBFD902DAA4E7F3FC89A1C079EA54"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\coreclr.dll",
+    "Bytes": 5123200,
+    "SHA256": "04377968C540F704AAE92ECB0EC9BBFD5FDDFE226DFCA30AA3EEB52006A44FD8"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\dbgshim.dll",
+    "Bytes": 140416,
+    "SHA256": "8BA04CA88CDBB7ACEB134C12BD67ABD7FB2864C4008495F8224A084B9BA74C93"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\hostpolicy.dll",
+    "Bytes": 392320,
+    "SHA256": "3EEE1BF88ACDAC74AEDEA15EB4BA2C4410D2082184266CD929C1310462115095"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Bcl.AsyncInterfaces.dll",
+    "Bytes": 16000,
+    "SHA256": "5705D245072D3EB78400547B32147DBB6E2C8B02BA8BDA76729798F5EFDEAECB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.CSharp.dll",
+    "Bytes": 1045120,
+    "SHA256": "316A247FD993E03F0A4D1E7ACB89DC5BC602555B7078BFB60E11BA2E24D960C6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.DiaSymReader.Native.amd64.dll",
+    "Bytes": 1813896,
+    "SHA256": "3AECC22ECECF784182883EBD2C2BF60BCDB25CC209DD64C32800B845EE8966E0"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+    "Bytes": 43632,
+    "SHA256": "9CCD830351AA28BC683D4F8D1CEFD9E724161F972D25BFB64EEE5BF55C48C5E3"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Extensions.DependencyInjection.dll",
+    "Bytes": 81536,
+    "SHA256": "2AA8182B5356A8CC5C35FC3641A87E814857D8D9BE399AC78F260343754D09E0"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Extensions.Logging.Abstractions.dll",
+    "Bytes": 62064,
+    "SHA256": "D575C9D1543CA726CE14DBDFFD103E93EA527CD46BB28316DA1F4122DBC55D56"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Extensions.Logging.dll",
+    "Bytes": 44656,
+    "SHA256": "183650081B551DFAD967A7CBF79946A229CB79458B8D04A12DB7C44B03BB9AB7"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Extensions.Options.dll",
+    "Bytes": 59008,
+    "SHA256": "786112CB2F6646EF1170219A8C0BB813C9F14A6781E67C6266414F55A679565D"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Extensions.Primitives.dll",
+    "Bytes": 40048,
+    "SHA256": "8CE9A85927EC7507B11FFE90080E7A811D51304A9E8B1DA20C350159BA403902"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.NETCore.App.deps.json",
+    "Bytes": 32783,
+    "SHA256": "879DC0CB9C9A7A41681E399FC4F18C15EF1AC9A3410F68B94A8D13DD0C6C391C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.NETCore.App.runtimeconfig.json",
+    "Bytes": 159,
+    "SHA256": "1B7AA545D9D3216979A9EFE8D72967F6E559A9C6A22288D14444D6C5C4C15738"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.VisualBasic.Core.dll",
+    "Bytes": 1245312,
+    "SHA256": "5897C9FC711AEB67F0C0CB1DCF205035CD48EA6AA6E8C9A9DFD99874E7EF9EB1"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.VisualBasic.dll",
+    "Bytes": 18048,
+    "SHA256": "2EA09B137ECA6D0AAA01FC6746B56242F9BD4F9659A7FCDC78E64162D58752BB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Win32.Primitives.dll",
+    "Bytes": 26240,
+    "SHA256": "E8F2611B0CDC077D5600CCE9E02C1BAC42A54C3574F6DC16C478B3E6A0AE217C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\Microsoft.Win32.Registry.dll",
+    "Bytes": 87680,
+    "SHA256": "E927CBBA4F097B165BC07B85DC8E6B8BAD6DF17FC1035F2AB54DAC844BF9C922"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\mscordaccore_amd64_amd64_6.0.722.32202.dll",
+    "Bytes": 1321880,
+    "SHA256": "0CECEE158F8B762C8A3610A91CA099ABF7FB834984803EC7D4E0BAE09CCEC173"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\mscordaccore.dll",
+    "Bytes": 1321888,
+    "SHA256": "DD2DA6E841155C8869A68270D951246CBFE67943BB71082121FC5EA3D5439661"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\mscordbi.dll",
+    "Bytes": 1269400,
+    "SHA256": "ACAB4F32FB8CE65F535B2096C4556962DD271D40000FE688F19A04BDE93A2080"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\mscorlib.dll",
+    "Bytes": 58496,
+    "SHA256": "17D4B3D640A611585C6BAC2DADD22F76A68A667AE0CC90C446EDE02EDEFB506D"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\mscorrc.dll",
+    "Bytes": 147072,
+    "SHA256": "587FB8810E8DED0BD1B33C4A8281EA2F288C58C1DD62AFCB33F30433F04B124E"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\msquic.dll",
+    "Bytes": 499584,
+    "SHA256": "4101DCF2EDC42417FDC3F7DB048442BA0B0A05D376CAFA3ED6C85E1DC6B3B9F6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\netstandard.dll",
+    "Bytes": 101504,
+    "SHA256": "2666C3D2972E95B2306CFAB72DFF26704CE89F1A25B55BA05DAEFAC2F7654575"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.AppContext.dll",
+    "Bytes": 15488,
+    "SHA256": "50646E8365BB6774C96843E2050607DAA727FE01C5AC0DC33F20078BBCA17800"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Buffers.dll",
+    "Bytes": 15488,
+    "SHA256": "FCDD06FC669315988D2A27A6A2E78DEB03DFB5550C277B328D90A8B26ED81ADF"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Collections.Concurrent.dll",
+    "Bytes": 246912,
+    "SHA256": "1314F85D88A247A8D3FC4A41F1735AF31E5E0C5324E93E3B167B331B46DE8019"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Collections.dll",
+    "Bytes": 264832,
+    "SHA256": "628A180F7C368A1011608B422DD1C8DE37064F21B59CBC26BD62E9B065C2E7BE"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Collections.Immutable.dll",
+    "Bytes": 666240,
+    "SHA256": "89743BC3E0B95132470C2C699ADD5CB5466FE7FB938725E09612B9BEE526EB9F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Collections.NonGeneric.dll",
+    "Bytes": 100992,
+    "SHA256": "AAD04CCE314CED4070B457A1638FA9BD85160B4148582483B4E317D7F2F92CEB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Collections.Specialized.dll",
+    "Bytes": 95360,
+    "SHA256": "6B3143AB53EF90285DB5C30DE82EAB03A78FF83CC53F62730408A3EB593FF026"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ComponentModel.Annotations.dll",
+    "Bytes": 187008,
+    "SHA256": "C72AA4EFBB17D9C5C8BC03A69B963644652DA5B5B5B6CC8489D75379026511D2"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ComponentModel.DataAnnotations.dll",
+    "Bytes": 17544,
+    "SHA256": "ADE682D3E52B24E47D7B14B1E71AEB8DFF77F5063006E5CB1BF0CAF03629DB1A"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ComponentModel.dll",
+    "Bytes": 18584,
+    "SHA256": "69E9429B032C853FCABD9DFC3BDF13701AC8C730CA40E1AFC949F935932846CD"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ComponentModel.EventBasedAsync.dll",
+    "Bytes": 38528,
+    "SHA256": "F2533CB4E274CE9DFE702EA34AFFB2E32B220EE714FB8DC118B2339519227131"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ComponentModel.Primitives.dll",
+    "Bytes": 75392,
+    "SHA256": "ADAC36FEC73388CDBB349527BD81B84C0B88EC2B381B81CC97EFB4549CD471FD"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ComponentModel.TypeConverter.dll",
+    "Bytes": 744576,
+    "SHA256": "7126B16695D5A2E4A593CEC1B7CAB8EC10DF5CBD9F31F5FF7CC25671E41E82CF"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Configuration.dll",
+    "Bytes": 19584,
+    "SHA256": "2C724A2A5B4E6926C5EBB56ADB3F33F27067E2E3D319E814A8537B9A579B32E1"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Console.dll",
+    "Bytes": 156824,
+    "SHA256": "82F483F5B349F8F4F0BC6C651D1FAA2E78DD3F01528DC72C7AC387BA7246AE06"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Core.dll",
+    "Bytes": 24192,
+    "SHA256": "8B05CC2DFD7491B709CAAB31C5FA5D58DA1BC321210536360AD20D19BE39E508"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Data.Common.dll",
+    "Bytes": 2983552,
+    "SHA256": "48D8145EF5E96C016ADB303BD59A34BACDA6F94BAEEDD9DC548DED61DEFEBAB1"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Data.DataSetExtensions.dll",
+    "Bytes": 16000,
+    "SHA256": "0F5E8441CE28F0771F8FDE9A5D1C6B65E6E25DFBF2C1B24420C2DFECE3A29631"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Data.dll",
+    "Bytes": 25752,
+    "SHA256": "5566075CDA9658C248D506AEA051BCC120C94005BF14CF4BCC1B23FA7257F9EE"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.Contracts.dll",
+    "Bytes": 16024,
+    "SHA256": "ECCDAAAC1B9F2AF83A9F6B49786996D334F6CE7133C1C37C4647065B49EA8A63"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.Debug.dll",
+    "Bytes": 16024,
+    "SHA256": "606E24A3BBC11942914FF4F60C3007FA737E0D5A2F4A5C021E0238F5403B66FE"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.DiagnosticSource.dll",
+    "Bytes": 380568,
+    "SHA256": "A939F33CCEA3A6731FDFB7791D32C3B518864F243211E39B6156DBB21CEB04BC"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.FileVersionInfo.dll",
+    "Bytes": 35456,
+    "SHA256": "B9E7B0073C546037A4F28439E8C3800C93F442E22CA706790D90AD71E7C319B6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.Process.dll",
+    "Bytes": 290432,
+    "SHA256": "98C318970936E1AC79CDE888E4CBFA455D91348881931FEFA6C84A2CB084D5E3"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.StackTrace.dll",
+    "Bytes": 36480,
+    "SHA256": "7B7D3F408AE1AEFA8C78F9AF5E2300546A08BA49E198247FB6538B13BF0E5B0D"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.TextWriterTraceListener.dll",
+    "Bytes": 60544,
+    "SHA256": "655D26FCF394B8FF01C2E3ECC8A40271903C02A7E251EBF4D58B8D291EA5F488"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.Tools.dll",
+    "Bytes": 16000,
+    "SHA256": "89B601E94E5BFD18C573DCBDD8AB2F6FA67F5C6B88E9B32888D79D70A2A3B2BD"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.TraceSource.dll",
+    "Bytes": 133248,
+    "SHA256": "A9138F26B1D866FA7179EAB0962D7B90DF61B39DBC088DDC951EAA0AB146B0A5"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Diagnostics.Tracing.dll",
+    "Bytes": 16512,
+    "SHA256": "5407D3AC2FBDB47A25C34E84A7B679EC4F76791AE4C7CB7CC6312C20FFD04094"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.dll",
+    "Bytes": 50840,
+    "SHA256": "9FB95A87AD50D6B0CAE05D9108382915144068034FBBD9F7F733C01DCC0CCFDB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Drawing.dll",
+    "Bytes": 21120,
+    "SHA256": "5176D9CBEE941DED09DC6C1AB8255241ABD07DCAA8B177F0C7F6FC1E99F498B3"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Drawing.Primitives.dll",
+    "Bytes": 130176,
+    "SHA256": "D2AAFDB04C1AF629CDEB2798A189B23840CCF0630B8782920738CD928BC59121"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Dynamic.Runtime.dll",
+    "Bytes": 16536,
+    "SHA256": "2A930D63F7020099F6B61733147AF4E38CBC3F80EA6EEA93C79421103751E6AA"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Formats.Asn1.dll",
+    "Bytes": 197248,
+    "SHA256": "26173E7E2970904164E8E3374EB225351453BA4D06D7CC3762ED2E610F9F8A7F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Globalization.Calendars.dll",
+    "Bytes": 16000,
+    "SHA256": "9DF5237E78ABAE0EFD1D90849B6A94C88A73C5DA5CAB3302407472F886EAF057"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Globalization.dll",
+    "Bytes": 16000,
+    "SHA256": "FF51C19E14E496EBD3C93A661190E1D6ED99D3F2CC7BEE4F9A826B7A46332E5A"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Globalization.Extensions.dll",
+    "Bytes": 15488,
+    "SHA256": "51EAA10853A4672F0ED9E673FF8D7AD154514A26A8C4B990C313F61787A9FC62"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Compression.Brotli.dll",
+    "Bytes": 72856,
+    "SHA256": "DC1F71AFBC55F6A6C135CD135B89E461C580B73C619DAAAA91EF266EC0E4BCC1"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Compression.dll",
+    "Bytes": 266880,
+    "SHA256": "2C70DB9227451B97F5F2C9CAD7E4A434895983450E5B653082C29D69AAF25292"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Compression.FileSystem.dll",
+    "Bytes": 16000,
+    "SHA256": "FC11B8625F1E1A5382274494FE0F2459D9E67951217DDB965BA384B8F84A6001"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Compression.Native.dll",
+    "Bytes": 822936,
+    "SHA256": "B4E65C507F48F28E96E69247E47093B35D0B1A376AF4C052D504983E9C26AE44"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Compression.ZipFile.dll",
+    "Bytes": 39576,
+    "SHA256": "6237BBAE8BCD8E34273CA5AA59685701FAD22B6B6FCFF3E7DAE277942F254355"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.dll",
+    "Bytes": 16000,
+    "SHA256": "BB50FF8A1F9AFFD53107DDDC78A33CB656988D6842F5AAC628CECB0B15F634AB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.FileSystem.AccessControl.dll",
+    "Bytes": 93848,
+    "SHA256": "544DEEE0E7663D4C5D6091F1B2197ED27E2FC5222254682B3BFB76A01EAAA8BE"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.FileSystem.dll",
+    "Bytes": 24192,
+    "SHA256": "91E0348A48B0D9A69E0FD8DB54B1BEE3B9465AE13F7FD95FBB4B25BDE3F80C16"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.FileSystem.DriveInfo.dll",
+    "Bytes": 42648,
+    "SHA256": "CFC334386E491A0FA41409D2E7CFE9C8B27E18FA3193D101916F92D93D975984"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.FileSystem.Primitives.dll",
+    "Bytes": 15488,
+    "SHA256": "42A9D51D8FE5166FEF82AAC23C820ADCB354B822B5B74728FFB0E79093EA0D3A"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.FileSystem.Watcher.dll",
+    "Bytes": 72344,
+    "SHA256": "DDBA64E364F20EF1472D39BBAF988073276C4F2ECF72B4F8196388DDB20BCC11"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.IsolatedStorage.dll",
+    "Bytes": 83608,
+    "SHA256": "A79B19F37DB340184F6A53A82B0E3410D7698BF1736EC479224EDF7EB3D508F9"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.MemoryMappedFiles.dll",
+    "Bytes": 69272,
+    "SHA256": "958EB5C597368F194D334D0BFF479706C83A8A80C992EAC3B9BA5B94E5ECFE4C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Pipes.AccessControl.dll",
+    "Bytes": 16512,
+    "SHA256": "D434A73F0B9368922BDC7D57E0BF7A80E3566CBD3A29665F4D868E5AAC1A1677"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.Pipes.dll",
+    "Bytes": 136344,
+    "SHA256": "FB75C1DD8C3A77641AB28058D32738551FCA2E5EC52FA6C123E3B42E5639126C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.IO.UnmanagedMemoryStream.dll",
+    "Bytes": 15512,
+    "SHA256": "CF9C47E009E08695C200647DDF2B6757A8375FE3A74830137143C989864EBFD9"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Linq.dll",
+    "Bytes": 537752,
+    "SHA256": "52E1CFBD54DE414A2B3C44DAD40BBBA10F72A8F9BA9CEE68323BDA0B4F417F69"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Linq.Expressions.dll",
+    "Bytes": 3857048,
+    "SHA256": "DF96691089EA41CB5A8DAFFC5E95324A5A5F3516083BFF2448A377FBFD61E918"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Linq.Parallel.dll",
+    "Bytes": 849048,
+    "SHA256": "920B3F087C615A7AD0057925B3FA6D9720690123075A6FE2AF07203F26786656"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Linq.Queryable.dll",
+    "Bytes": 228504,
+    "SHA256": "BA5E7F66011AC7F215518D46FF2A13F646489D5A89334C33D6B9C6F697E3E2D2"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Memory.dll",
+    "Bytes": 173720,
+    "SHA256": "108F424CA216F2D057C722F686BCC25DBC02B221B2CBCEEAE21DDB456FD97EAF"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.dll",
+    "Bytes": 18048,
+    "SHA256": "50E883AE0CF45CD8D35EE4CDB83DBC3B6DA8284AFC4EF53352CCBA502FEBE6A2"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Http.dll",
+    "Bytes": 1801880,
+    "SHA256": "5B1CB786C6DA2C36E86F2079EEB22081C35BF951D5F286AE4A83154A3071EDFF"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Http.Json.dll",
+    "Bytes": 82072,
+    "SHA256": "D0B4BC46949A090C1F30DFF8834EFDD7AB2CAE8FB888B60032F180E5C179AEBD"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.HttpListener.dll",
+    "Bytes": 639128,
+    "SHA256": "4EFAB60ED73E5AE823610FDCD2DC66CC02C6C44244EEDFA8CE424BE7F62488AA"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Mail.dll",
+    "Bytes": 551576,
+    "SHA256": "866B26900D30A29B174213E217E21A49D2BFD1E99B21E5AB33EA8E4D5AA1C88C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.NameResolution.dll",
+    "Bytes": 101016,
+    "SHA256": "BC9F07B05893C03CD47FBC71176C3E89287A493EEA4A430D74193C841463181D"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.NetworkInformation.dll",
+    "Bytes": 150680,
+    "SHA256": "4310EE56787D5CB17A908C6313C7D7C0BE7E66772AD43DCD384CC12940793067"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Ping.dll",
+    "Bytes": 79000,
+    "SHA256": "76D2A89CFEAE149C1CEEA891B563527CAD6C4823E01185AA25824CF1C0AA931C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Primitives.dll",
+    "Bytes": 214168,
+    "SHA256": "421FDCBD8EB0A744424995DBCDEE2E72ECA9EF1BFCDDB53187FB624499DCCC51"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Quic.dll",
+    "Bytes": 291992,
+    "SHA256": "78C61D0EFDECA3DD6929E80083798DCDA9B557183F37D556397DAAD7241F83E7"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Requests.dll",
+    "Bytes": 348808,
+    "SHA256": "9990E35B0AAFBDD58ACC4ED76DB1F4F8639C0F9CC9F02AA38B8FBBE8D173F340"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Security.dll",
+    "Bytes": 682136,
+    "SHA256": "F591CE881A45FE77608F8B301853218DEC7CACCC7F1007A3C6D59EEEC8F8C7AE"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.ServicePoint.dll",
+    "Bytes": 37000,
+    "SHA256": "15A4182BE2F2D7613F5240FD7805E197CD28B6E5DC85FF56A18438D2ADC0AE5E"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.Sockets.dll",
+    "Bytes": 506520,
+    "SHA256": "0D00C303E305949A1543658E9E15477FBF6EB66B663C4CD2CF8C037E0265E7D7"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.WebClient.dll",
+    "Bytes": 166552,
+    "SHA256": "2DAB6B8B9EFA86A7F0AF51CCFBCFD135D309E648C4D43223923D87F7BA983FED"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.WebHeaderCollection.dll",
+    "Bytes": 60568,
+    "SHA256": "A62CB21ACCEBBB410308073BD1D7B177D91365AAF5AF63324E7446D4FD6155C4"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.WebProxy.dll",
+    "Bytes": 31896,
+    "SHA256": "21A3230F6D7A3D0BD307BE718ADE71E8F12D25D0C1F468D040F12F053680DE2E"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.WebSockets.Client.dll",
+    "Bytes": 75928,
+    "SHA256": "9C21E9AC3CAA811D28EC68B063079EEF2CF3AE889855D1D989360F53994ECA3E"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Net.WebSockets.dll",
+    "Bytes": 181400,
+    "SHA256": "2D92421344665A67179B8E0A6AD2FB74C233EC45673EB3CAB1E20C1CCEFD206C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Numerics.dll",
+    "Bytes": 16000,
+    "SHA256": "FB8C60330243A677CFF36E3EBCFD3DFB5AC0F2D739F92C7DCEBCF5C8C9E62DA2"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Numerics.Vectors.dll",
+    "Bytes": 16000,
+    "SHA256": "5B4FE8F00F2C18936CE3BA3C22BA351E0D886B6BF071BB19EA1DEEDCE4D3624B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ObjectModel.dll",
+    "Bytes": 90776,
+    "SHA256": "EE2A487CD7ABE5E08207426240E5EB981902EA894BAA6767A7F786BE8311E538"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Private.CoreLib.dll",
+    "Bytes": 10631320,
+    "SHA256": "2CAA46D2AE726E135592033B6C682232A08698C23DBD1A9207F86C4CCA081AD7"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Private.DataContractSerialization.dll",
+    "Bytes": 2074256,
+    "SHA256": "913461FDCA318C69540EC544619A52CF4865626DFD2054EBE075ECFA82BFF1EA"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Private.Uri.dll",
+    "Bytes": 252568,
+    "SHA256": "4B80767452017DA1726302DF729D9918C95BA8B5B05EE75A4807B17D88EF96A6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Private.Xml.dll",
+    "Bytes": 8504448,
+    "SHA256": "38A26C1F6510BE0F2371FBDBCC590B3D44FDB2B76807785FDDBE52336630F66A"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Private.Xml.Linq.dll",
+    "Bytes": 405144,
+    "SHA256": "5166BFE1A33746892B87F09CCAD542396F9A23ED4A5E79427E3DFE764FC1AD42"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.DispatchProxy.dll",
+    "Bytes": 66200,
+    "SHA256": "86B297AE56EC792107F2649A4E5C54120064D88F40E5A4541331F653F7AC1E83"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.dll",
+    "Bytes": 16536,
+    "SHA256": "36194CB5F9821D7712E66C222E6A4D6DE7557344EAD607EEA6A6FF55D8A0A4F1"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.Emit.dll",
+    "Bytes": 16024,
+    "SHA256": "06B2AAB6E04FF1F2250C0636B90355D73E39E5A2B0ADA6065B475282C28153E0"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.Emit.ILGeneration.dll",
+    "Bytes": 16000,
+    "SHA256": "59E813FA039D140323B7BC2E51DEF90AA141C7F02CF45B6CAB45B9829DB9B993"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.Emit.Lightweight.dll",
+    "Bytes": 16000,
+    "SHA256": "C63FBD51C1D794F1551E096A5A8ADFCCEDFBA4B6EE0B6AEAF966BF6EBB1A7223"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.Extensions.dll",
+    "Bytes": 15488,
+    "SHA256": "71CAA3D1D16BF22AC4CD1672D200ACE3225BABCE1E2E889200F15EFA734B6222"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.Metadata.dll",
+    "Bytes": 1130648,
+    "SHA256": "695365A6FB1C1B7762AE925BCBB5BD2827CED11C750D15DC5F88218D6FC4D8DF"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.Primitives.dll",
+    "Bytes": 16024,
+    "SHA256": "1DF428D05437F42DC1EE52EF3BE19A751CCE5A577B130425C8137FADE97C5CCC"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Reflection.TypeExtensions.dll",
+    "Bytes": 33432,
+    "SHA256": "5BD856CFA8F30BEDDF9DB302F6ACF851F63661C7C753B9088266F9AC8DD09973"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Resources.Reader.dll",
+    "Bytes": 15488,
+    "SHA256": "1CF8DAF7B1D834D48E95AF0E92D281ED18F0C40036008073AC61418F44B1C1A4"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Resources.ResourceManager.dll",
+    "Bytes": 16000,
+    "SHA256": "BEF18F0CEDE69F1F3B889D7BF1BD00E90B7136CD9C4CE0D85FAE23B6F952885C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Resources.Writer.dll",
+    "Bytes": 45208,
+    "SHA256": "752F89C066FC0D872654C6501DD6B89FA6E1A4FB649AB19BE00AC59A5D02052F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.CompilerServices.Unsafe.dll",
+    "Bytes": 22680,
+    "SHA256": "1F1269F45ED627B6DA1D02E668A5846FC8D89FD54BA541458FE3206CD261D4D3"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.CompilerServices.VisualC.dll",
+    "Bytes": 20120,
+    "SHA256": "A4645622DB0FC9D3BC239B5136472C17CE738BECFC8C9875DC9CCFD1C153E51A"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.dll",
+    "Bytes": 42624,
+    "SHA256": "5EE7ED5290D8B1F8E47854D4A9CAEFF68A503DEEACE7B36451988F80B5141504"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Extensions.dll",
+    "Bytes": 18048,
+    "SHA256": "F17FE826509283F6BDEF0789EEC192FBC811DA6A142B19F9E14E25A79D4C2403"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Handles.dll",
+    "Bytes": 15488,
+    "SHA256": "581DD1B50B99F685B62F0CD79C7E0629B3841E371850686E78EB68D695E52633"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.InteropServices.dll",
+    "Bytes": 51864,
+    "SHA256": "833CB735BA01762C8EC501D20936081C0FD75F267F45B4FE3C86BFD0321885C6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.InteropServices.RuntimeInformation.dll",
+    "Bytes": 31896,
+    "SHA256": "00B0F34E391F998E0DF534D32E7ABCB62D524E84BD3276C8526924231EE22D6A"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Intrinsics.dll",
+    "Bytes": 16536,
+    "SHA256": "7345861DB1327A1B748690E6952B1A153EF1340C36B9FB9390D149FE04148F85"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Loader.dll",
+    "Bytes": 16000,
+    "SHA256": "4A3343C5602A5244883878DD2A2E3A354975094557BE888B093E08255E3B802B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Numerics.dll",
+    "Bytes": 221848,
+    "SHA256": "19A0C0768273026E7CC01631ED0827665D1B603F10F536D786D8AB11B169B93B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Serialization.dll",
+    "Bytes": 17536,
+    "SHA256": "70757055150731E3451F81E22F5707B0BFDFF98C267B9E5783E9D4A6CD60EE4D"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Serialization.Formatters.dll",
+    "Bytes": 322200,
+    "SHA256": "33C6D92A36190E0D3ABE51746C8828A189D594159A636FF88BF76F51B057A416"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Serialization.Json.dll",
+    "Bytes": 16000,
+    "SHA256": "670E0C3A4969B800835B65780639EA85EF68A69C8F1B2D015863EEC96C2A8F1C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Serialization.Primitives.dll",
+    "Bytes": 28824,
+    "SHA256": "871FB41960257B1D1DC6F87E00B5DE822D9288C8B93E3F3E5B17BD25924BD80B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Runtime.Serialization.Xml.dll",
+    "Bytes": 16512,
+    "SHA256": "47586D335A3DBCF691043DF4670C741091B62B4F59E619F5A3CDC876EAB08521"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.AccessControl.dll",
+    "Bytes": 215192,
+    "SHA256": "219A62E07AD0C1D56B1614D28B0B13BDBFBFCF6DADECF1E5FF69D858251DC3BB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Claims.dll",
+    "Bytes": 94360,
+    "SHA256": "18579E03CB56973CB460CBD7C501FA3AA246EEDCC0F02B4F6775AFF286DB68C8"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.Algorithms.dll",
+    "Bytes": 805016,
+    "SHA256": "667EF15B3831A6D7BC1A940911E428FE1344182D9FB14EFB5D429107BDA57D85"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.Cng.dll",
+    "Bytes": 485528,
+    "SHA256": "A719D3969BF9B6DD451D66B7E046458EA945D8338B976E350C4B6813269C404C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.Csp.dll",
+    "Bytes": 189592,
+    "SHA256": "3B7A3937F3FB40061A0D6E38B3F493A337E300C92746B8D2FC7B8CF1D9B59A4C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.Encoding.dll",
+    "Bytes": 93848,
+    "SHA256": "DCC9B161CF56A2BB2BFAF847D81DEF41C4EB417FA96A5C79F984747849BB8877"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.OpenSsl.dll",
+    "Bytes": 31872,
+    "SHA256": "E74084306323376BAB22B4F878B2C9FDC12C43ED06653B3F9C73DB56B3591145"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.Primitives.dll",
+    "Bytes": 134808,
+    "SHA256": "A65F2DC2405B377AA9AECDB3E892ADF3C8569CEB4452ADDC924C9B16045B0DA6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Cryptography.X509Certificates.dll",
+    "Bytes": 486552,
+    "SHA256": "CFDA448A05D9971CB03AE3FBDC4979B5E5651FD30B63557A2C74112900F82041"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.dll",
+    "Bytes": 18560,
+    "SHA256": "519F5338EA24E512A1D71FD96D18BACB85128FA094BA813317BB331B658BEC2D"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Principal.dll",
+    "Bytes": 15488,
+    "SHA256": "2F1B9586D961C3EB0159271013BE873DFEEC4589C0674262EBE229EE06985A42"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.Principal.Windows.dll",
+    "Bytes": 151704,
+    "SHA256": "6E25D5295C42307EC2DF0BB2F141CECBDB7E3EA5DC35D063E9FE7FD514700F0B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Security.SecureString.dll",
+    "Bytes": 15488,
+    "SHA256": "D70F379E07A8A54647EF157558B60DE50EF6B4B0AD4ABEE41AD9C633E3D8FA6C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ServiceModel.Web.dll",
+    "Bytes": 17536,
+    "SHA256": "EE7335CF0974CBEA6D78768C524D5E7ACCD706CD99146F98727A457D207BD637"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ServiceProcess.dll",
+    "Bytes": 16512,
+    "SHA256": "0E2E25D61F605DB206C1FB57C2011564599D6B4750BDCC9D44719F81223F25D3"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Text.Encoding.CodePages.dll",
+    "Bytes": 871056,
+    "SHA256": "AC1E98B77CEC783C34593A42BBBC4B97BF46CE738AED4933B804EF917BF3066C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Text.Encoding.dll",
+    "Bytes": 16000,
+    "SHA256": "09CC4FFEC8AC09328C3C03964DFEA531E8F5536CEF566CFF51FB7DA50F885E7C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Text.Encoding.Extensions.dll",
+    "Bytes": 16024,
+    "SHA256": "6CCAF501DC6E4B578FA8DB6E8EFDC549D405A63042FF916093BD8F84E8277032"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Text.Encodings.Web.dll",
+    "Bytes": 131224,
+    "SHA256": "276DFD56C6573B8E1F418C78043DC6606D986C66A1B78CF882C8D9AA7C51864E"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Text.Json.dll",
+    "Bytes": 1483928,
+    "SHA256": "B1F14F11DD6F2BDF15705FAE316A945C9B97C5CE5DA67C29BF998353287B76DF"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Text.RegularExpressions.dll",
+    "Bytes": 529560,
+    "SHA256": "581EE84E5CA9E283BF1B61B94C495732153B5FBEC98A51FC5D35C9865604ED0C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Channels.dll",
+    "Bytes": 125080,
+    "SHA256": "52472CD978C808EBC3FD079F935CBC646B02C9EAB41B175F68CA4E136037748E"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.dll",
+    "Bytes": 80024,
+    "SHA256": "9ED389096339C7FD65A1B11B624AA72E939E23651D86BFC6A81227DB7AC91AB0"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Overlapped.dll",
+    "Bytes": 16000,
+    "SHA256": "2385CA2D4D7DF73888EB7B943402EE90D68B0CC99D03A02C760B1C23A49F40C6"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Tasks.Dataflow.dll",
+    "Bytes": 505496,
+    "SHA256": "7C9EC6A8D77F2A2E8AA1F146DD75C4E1F3DFEB9D7033F9F95FFF84864FE2B73B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Tasks.dll",
+    "Bytes": 17024,
+    "SHA256": "476884F230B4ACB4BA86F24C8105C3076A5C30CCE6B11275ACCF80C4E400A98F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Tasks.Extensions.dll",
+    "Bytes": 16024,
+    "SHA256": "7F292C1E8845374D4D27650E96BADF3E080C6B5CEF0A7EE37B7217509F6B732B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Tasks.Parallel.dll",
+    "Bytes": 138904,
+    "SHA256": "83B2C4B665B58F993D4ABE80F0D26A9322F12B40F7D5F696392EFB637FB3A3FB"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Thread.dll",
+    "Bytes": 16024,
+    "SHA256": "F11E17A820CCC7B084692C68411E1FFB6F506645D7994A956CCBD796ABBB873F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.ThreadPool.dll",
+    "Bytes": 16016,
+    "SHA256": "718D35D92F5C055823D44599B0C049273FCD9D922EB46326B120A8D708FD6978"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Threading.Timer.dll",
+    "Bytes": 15488,
+    "SHA256": "32C4D5F583E36E0835D9898514615C43E58BFCF7AF7301644F49A17D18B6AC46"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Transactions.dll",
+    "Bytes": 17048,
+    "SHA256": "BA6DEF1337EC434309B6A28A5653291F0CC9D411FC0DE73C0783D3199C1FC24B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Transactions.Local.dll",
+    "Bytes": 351384,
+    "SHA256": "A12BA56A76034DEC5A5D4013556D49AE5F4FFAFBA9C78C08A9FEC808AA26BD30"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.ValueTuple.dll",
+    "Bytes": 15488,
+    "SHA256": "05F443AE382EFFFB5DA640D55C7C334243B559DE26349DA1D6A0B40CE1C11F30"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Web.dll",
+    "Bytes": 16000,
+    "SHA256": "25B81B487B5B474E269CB4A7AEB75AEBA0CB2FF9E72B2923E4BC0B8FB01AF526"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Web.HttpUtility.dll",
+    "Bytes": 52880,
+    "SHA256": "8DBE2A8D794F0AF632C49A8E9929CFEDCC68EC4ABF661A39B656974DA9FB7C2C"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Windows.dll",
+    "Bytes": 16536,
+    "SHA256": "07AE7C534940C94625C7C8CD86E9EADC6FCE3D750D308554EDB4E24BF4587D93"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.dll",
+    "Bytes": 24728,
+    "SHA256": "57AF41B86E30D8EBAC3BE05C9D063E5371D62DE703E10AAF5A187908FF8AE6C7"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.Linq.dll",
+    "Bytes": 16512,
+    "SHA256": "A5EE9219F397CB0DE7940C872C0F40E54D04A1DADE86E9322559009DC48FCB88"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.ReaderWriter.dll",
+    "Bytes": 22144,
+    "SHA256": "2F5D5B42B268F17A68657535CFBA174B350A39C0D70B8556DE67AAAA6AAA828B"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.Serialization.dll",
+    "Bytes": 16512,
+    "SHA256": "C61362868EAAEE5D22D2DA10502FD751A0799647EA4A6C83FB1E4D994757B7B7"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.XDocument.dll",
+    "Bytes": 16000,
+    "SHA256": "F9A5602336E6F819F2E502670075B93AC9061B92DA7F43CAA6FC5AD8F3CD9395"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.XmlDocument.dll",
+    "Bytes": 16000,
+    "SHA256": "EA510537BDDC1F5B5F85B41D94300B4189D13F5605FAAD1A5BFECB04C9C45A38"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.XmlSerializer.dll",
+    "Bytes": 18048,
+    "SHA256": "D060142ED17394F97E4536E06D466A39FCF2BFA85C0280E8997605489854D782"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.XPath.dll",
+    "Bytes": 16000,
+    "SHA256": "D4E78592333A130250E9FEC15D1FEA2A768B9C0FD25A7ADED3EC428AA1692F8F"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\System.Xml.XPath.XDocument.dll",
+    "Bytes": 18072,
+    "SHA256": "B763654D251F0E7B32330DDCAC46DFF190D4EB784BB750BEA7651B7C7132ABE5"
+  },
+  {
+    "Path": "GameFiles\\dotnet\\WindowsBase.dll",
+    "Bytes": 17032,
+    "SHA256": "B3E6DF643DD07A3BDDE2B6419DA7E7EE49C2C01BDCE7C758C9ABC20B8B8A6296"
+  },
+  {
+    "Path": "GameFiles\\P90 Console.cmd",
+    "Bytes": 151,
+    "SHA256": "C9B0DBA3D89ABF1AA3A0B61FCDFD77A24AA1508554D4720E05749FA9BE0E2E6D"
+  },
+  {
+    "Path": "GameFiles\\P90\\plugins\\P90.Samples.ServerDiagnostics.dll",
+    "Bytes": 8704,
+    "SHA256": "B11325BE0DC964CC98B8151913E0D51E49B9BE21E67A313D1A6E6834B3EE22D0"
+  },
+  {
+    "Path": "GameFiles\\scripts\\P90-Console.ps1",
+    "Bytes": 13330,
+    "SHA256": "458149875FF61639F87D34C4EA410FD5F816E2DBD1F023DB01D65E6EAFE79AEA"
+  },
+  {
+    "Path": "GameFiles\\scripts\\P90.ps1",
+    "Bytes": 2709,
+    "SHA256": "E65CD9DC7223F3C1A56369BD8C83A2FD7BED5A555E459DE11404A51740F4E7B5"
+  },
+  {
+    "Path": "GameFiles\\winhttp.dll",
+    "Bytes": 26112,
+    "SHA256": "8C6CDBC38836DEE87E3368F5DE1994D7C0CCEBF29E4CE7ABA3C0981F9375412C"
+  },
+  {
+    "Path": "Install.ps1",
+    "Bytes": 2420,
+    "SHA256": "CB677EB9658ABDCDB892B29A847E4BB82F5C54A29154D7A4BABECB2BE48922A9"
+  },
+  {
+    "Path": "Licenses\\BepInEx-LICENSE.txt",
+    "Bytes": 25338,
+    "SHA256": "F2CECA48AF033D8ADF337A8F9453E633CFAD10A1F8C9FEC2E5AE55A2D8FFE952"
+  },
+  {
+    "Path": "Licenses\\Doorstop-LICENSE.txt",
+    "Bytes": 26526,
+    "SHA256": "20C17D8B8C48A600800DFD14F95D5CB9FF47066A9641DDEAB48DC54AEC96E331"
+  },
+  {
+    "Path": "Licenses\\dotnet-LICENSE.txt",
+    "Bytes": 1116,
+    "SHA256": "CFC21F5E8BD655AE997EEC916138B707B1D290B83272C02A95C9F821B8C87310"
+  },
+  {
+    "Path": "Licenses\\dotnet-THIRD-PARTY-NOTICES.txt",
+    "Bytes": 46771,
+    "SHA256": "55FF71C32F96483C2F4E061EB78EE9BF3D8D562D00143C67B361BB4CE989FE44"
+  },
+  {
+    "Path": "payload-sha256.json",
+    "Bytes": 34673,
+    "SHA256": "574448ABF4CD2C4BEEA710EC5D349A0CE31EA7DA2717D55648236074D9D6EEC6"
+  },
+  {
+    "Path": "README.ru.md",
+    "Bytes": 5081,
+    "SHA256": "B643CB63F412B1E0E889924A8A12A5828B0D3563F72F5FCBC07C46B9E3E492D6"
+  },
+  {
+    "Path": "SDK\\docs\\API.ru.md",
+    "Bytes": 18328,
+    "SHA256": "9B96B21200C1DF6D2D3ABA0AE2048970F27F9A96F5215AE115085CD5723FDB34"
+  },
+  {
+    "Path": "SDK\\docs\\CHANGELOG.ru.md",
+    "Bytes": 6033,
+    "SHA256": "47C4D7F788AB8A4CCBE0E92036B25D5AE2FCEE3606F36CE5459B4236544AC713"
+  },
+  {
+    "Path": "SDK\\docs\\CLIENT-TEST.ru.md",
+    "Bytes": 6644,
+    "SHA256": "9C0F1EA9678BB6DAD0825A3D03CE7ECA766B8D07DD7AAB31064AD8493E2694A6"
+  },
+  {
+    "Path": "SDK\\docs\\CONSOLE.ru.md",
+    "Bytes": 8076,
+    "SHA256": "D9C10C9EB9BD6D775AB030A6137CBA242624BDDE95E275BC115FF8C69E8769E5"
+  },
+  {
+    "Path": "SDK\\docs\\CORE-DEVELOPMENT.ru.md",
+    "Bytes": 14690,
+    "SHA256": "233AD88A19DE32D3397DC3C728FF2AB1D3C4E45E2C4661EE0E3DBA92FE11490E"
+  },
+  {
+    "Path": "SDK\\docs\\OPERATIONS.ru.md",
+    "Bytes": 13563,
+    "SHA256": "47865A04FA5A7A491F6B46D237FDC675453986C7A9D2ADCF2AB650AE83F8FB61"
+  },
+  {
+    "Path": "SDK\\docs\\PLUGIN-DEVELOPMENT.ru.md",
+    "Bytes": 12606,
+    "SHA256": "5156BB64C35284C03FCF3AD19778BF3031D4ED6C3BDF608FD840C4CEC84E8DC5"
+  },
+  {
+    "Path": "SDK\\docs\\PLUGINS.ru.md",
+    "Bytes": 840,
+    "SHA256": "F3456BCD1C0B8A875D8E6BEFAC11A36A1C9E410A0E2A61AD83578F7CF2A6265E"
+  },
+  {
+    "Path": "SDK\\docs\\README.ru.md",
+    "Bytes": 5080,
+    "SHA256": "10FD8745EEE914D6B5BD9958F87B8655D821522373E8AC0D952125BA5FD58D2E"
+  },
+  {
+    "Path": "SDK\\docs\\RELEASE.ru.md",
+    "Bytes": 9324,
+    "SHA256": "697D14EE2451BB79327D7124E3ADB09BCA0A933A861588BB31B0CA7B598EF298"
+  },
+  {
+    "Path": "SDK\\docs\\ROOMS.ru.md",
+    "Bytes": 33451,
+    "SHA256": "46329D1E13A7720E02B3B29A686F7E6827196E6C020A009B950C21DAC101A2DB"
+  },
+  {
+    "Path": "SDK\\examples\\OnechikHello\\Build.ps1",
+    "Bytes": 1039,
+    "SHA256": "41C7FDF030A8EEC7570D563A382B8D264F0D68E76D673E87EF3EBD7319B630F5"
+  },
+  {
+    "Path": "SDK\\examples\\OnechikHello\\global.json",
+    "Bytes": 91,
+    "SHA256": "C700761A8DA9E52EE1DA80751B38B9A9C36A72F5CBCBFA3C6C0EC006ED29262B"
+  },
+  {
+    "Path": "SDK\\examples\\OnechikHello\\lib\\P90.API.dll",
+    "Bytes": 20992,
+    "SHA256": "373515F77F4045B9EF9DBEF9887AFE0C530B96699038FFF495A8DC168C5F888A"
+  },
+  {
+    "Path": "SDK\\examples\\OnechikHello\\NuGet.Config",
+    "Bytes": 197,
+    "SHA256": "AEC93B5637AB6D62470979A008990A4A336A287AB83A3F2541849AE735674055"
+  },
+  {
+    "Path": "SDK\\examples\\OnechikHello\\Plugin.cs",
+    "Bytes": 1873,
+    "SHA256": "9238F94900E6416738D65A579F742BF6A65754740FEC8DDE534ED6F2F49E969A"
+  },
+  {
+    "Path": "SDK\\examples\\OnechikHello\\Plugin.csproj",
+    "Bytes": 488,
+    "SHA256": "C3760076ED4A2FB95D1204441081DAB8D4C1A723B7608161DA4BBF6F28D1C600"
+  },
+  {
+    "Path": "SDK\\files.sha256.json",
+    "Bytes": 3597,
+    "SHA256": "DBA0530ABC579817F159888AEE027D975696A9F9E1FCC3A816FCBC4D614B7111"
+  },
+  {
+    "Path": "SDK\\global.json",
+    "Bytes": 91,
+    "SHA256": "C700761A8DA9E52EE1DA80751B38B9A9C36A72F5CBCBFA3C6C0EC006ED29262B"
+  },
+  {
+    "Path": "SDK\\lib\\P90.API.dll",
+    "Bytes": 20992,
+    "SHA256": "373515F77F4045B9EF9DBEF9887AFE0C530B96699038FFF495A8DC168C5F888A"
+  },
+  {
+    "Path": "SDK\\New-Plugin.ps1",
+    "Bytes": 1597,
+    "SHA256": "AF2025159944F0D9A1C95D809132182EDA78CC004B1F22A1F358EAF204CEDB97"
+  },
+  {
+    "Path": "SDK\\NuGet.Config",
+    "Bytes": 197,
+    "SHA256": "AEC93B5637AB6D62470979A008990A4A336A287AB83A3F2541849AE735674055"
+  },
+  {
+    "Path": "SDK\\README.ru.md",
+    "Bytes": 13169,
+    "SHA256": "5A3FA4BAAD3E45FCD9127CDC4FA5CA6CCFD6A5304AD37CAF939C10F36C08477C"
+  },
+  {
+    "Path": "SDK\\sdk-manifest.json",
+    "Bytes": 297,
+    "SHA256": "C717530EE241B1415465759B1DD80EC1F9CDC5CF3496A38CF47EFECB397EEB58"
+  },
+  {
+    "Path": "SDK\\template\\Build.ps1",
+    "Bytes": 1035,
+    "SHA256": "3FD0F363FF3D2BE741473BE372B61A28001CC50B3FD893D9061B1037281864DC"
+  },
+  {
+    "Path": "SDK\\template\\Plugin.cs",
+    "Bytes": 1816,
+    "SHA256": "89F8C071B7A358E608F57C7C29167F389716701F096E9439CA3A1CD50C485E38"
+  },
+  {
+    "Path": "SDK\\template\\Plugin.csproj",
+    "Bytes": 484,
+    "SHA256": "042F63B2A61EBABE5FD75462A8D862F5B4071EE2ED238E4BF9469D01ACFE1A86"
+  },
+  {
+    "Path": "SDK\\verified-example\\OnechikHello.dll",
+    "Bytes": 7680,
+    "SHA256": "EFF75C81327F9A4661B04BF294D84351F2AE649B3D8C6B7213B2E742098C861F"
+  },
+  {
+    "Path": "Setup.cmd",
+    "Bytes": 163,
+    "SHA256": "B2C536EC42466AD4D1A82395589BD22E2778C99409FFDEA9566AD410EA91460B"
+  },
+  {
+    "Path": "Setup.ps1",
+    "Bytes": 1130,
+    "SHA256": "4269ECD643EB3FA1AE452C06F683C1601247E89CA1C3EA73850B1695DB81E574"
+  },
+  {
+    "Path": "supported-game.json",
+    "Bytes": 861,
+    "SHA256": "E9B4B016BC9C15A1F705EB2B946F35DBFD1FE777BDA31603DA3CAE98EC07D4F6"
+  },
+  {
+    "Path": "THIRD-PARTY.md",
+    "Bytes": 2361,
+    "SHA256": "0A7CE2FC0D9DAF73E08BC790E1C8BF4EFA7E6BDD86DE244983313EC43F7F9FA5"
+  },
+  {
+    "Path": "Update.ps1",
+    "Bytes": 3066,
+    "SHA256": "BADFF2101DB6E977D26B70FD9BFA9F1A023E9C3FC8D6682454EBD3C7A0BB1744"
+  },
+  {
+    "Path": "VERIFICATION.ru.md",
+    "Bytes": 2663,
+    "SHA256": "2132844EBD96C36DE2B01009BA34E076AFA27DB4692D00CBCEC202DCA74FC245"
+  }
+]

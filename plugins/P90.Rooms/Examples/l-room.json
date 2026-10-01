@@ -1,0 +1,96 @@
+{
+  "Id": "l-room",
+  "Enabled": false,
+  "AnchorRoom": "LCZ Office 1",
+  "AnchorRoot": "LCZ_Office",
+  "Entrance": {
+    "Position": [
+      -7.0300293,
+      2.3841858E-07,
+      -2.6499023
+    ],
+    "Rotation": [
+      0,
+      180,
+      0
+    ]
+  },
+  "Return": {
+    "Position": [
+      -7.0300293,
+      1.6000001,
+      -0.64990234
+    ],
+    "Rotation": [
+      0,
+      180,
+      0
+    ]
+  },
+  "Interior": {
+    "Position": [
+      20100,
+      500,
+      20000
+    ],
+    "Rotation": [
+      0,
+      0,
+      0
+    ]
+  },
+  "Arrival": {
+    "Position": [
+      0,
+      0,
+      -2
+    ],
+    "Rotation": [
+      0,
+      0,
+      0
+    ]
+  },
+  "Exit": {
+    "Position": [
+      0,
+      0,
+      -5.7
+    ],
+    "Rotation": [
+      0,
+      0,
+      0
+    ]
+  },
+  "CaptureHalfSize": [
+    50,
+    30,
+    50
+  ],
+  "Objects": [],
+  "Layout": {
+    "Height": 4,
+    "WallThickness": 0.3,
+    "FloorThickness": 1,
+    "FloorMaterial": 10,
+    "WallMaterial": 12,
+    "CeilingMaterial": 12,
+    "Ceiling": true,
+    "Lights": true,
+    "Sections": [
+      {
+        "X": 0,
+        "Z": 0,
+        "Width": 16,
+        "Depth": 12
+      },
+      {
+        "X": 4,
+        "Z": 10,
+        "Width": 8,
+        "Depth": 8
+      }
+    ]
+  }
+}

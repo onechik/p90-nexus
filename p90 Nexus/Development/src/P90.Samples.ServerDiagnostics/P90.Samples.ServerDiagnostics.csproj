@@ -1,0 +1,3 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup><ProjectReference Include="..\P90.API\P90.API.csproj" /></ItemGroup>
+</Project>
