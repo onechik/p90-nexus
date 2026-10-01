@@ -1,0 +1,152 @@
+{
+  "version": 4,
+  "targets": {
+    "net6.0": {
+      "P90.API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/P90.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/P90.API.dll": {}
+        }
+      },
+      "P90.Core/0.3.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "P90.API": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/P90.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/P90.Core.dll": {}
+        }
+      },
+      "P90.GameAdapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "P90.Core": "0.3.0"
+        },
+        "compile": {
+          "bin/placeholder/P90.GameAdapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/P90.GameAdapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P90.API/1.0.0": {
+      "type": "project",
+      "path": "../P90.API/P90.API.csproj",
+      "msbuildProject": "../P90.API/P90.API.csproj"
+    },
+    "P90.Core/0.3.0": {
+      "type": "project",
+      "path": "../P90.Core/P90.Core.csproj",
+      "msbuildProject": "../P90.Core/P90.Core.csproj"
+    },
+    "P90.GameAdapter/1.0.0": {
+      "type": "project",
+      "path": "../P90.GameAdapter/P90.GameAdapter.csproj",
+      "msbuildProject": "../P90.GameAdapter/P90.GameAdapter.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "P90.Core >= 0.3.0",
+      "P90.GameAdapter >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ft646\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "0.3.0",
+    "restore": {
+      "projectUniqueName": "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.Loader\\P90.Loader.csproj",
+      "projectName": "P90.Loader",
+      "projectPath": "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.Loader\\P90.Loader.csproj",
+      "packagesPath": "C:\\Users\\ft646\\.nuget\\packages\\",
+      "outputPath": "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.Loader\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\NuGet.Config",
+        "C:\\Users\\ft646\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "framework": "net6.0",
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.Core\\P90.Core.csproj": {
+              "projectPath": "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.Core\\P90.Core.csproj"
+            },
+            "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.GameAdapter\\P90.GameAdapter.csproj": {
+              "projectPath": "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.GameAdapter\\P90.GameAdapter.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net6.0": {
+        "framework": "net6.0",
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

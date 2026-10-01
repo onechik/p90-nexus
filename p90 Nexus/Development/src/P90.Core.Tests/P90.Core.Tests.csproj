@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\P90.GameAdapter\BuildGuard.cs" Link="BuildGuard.cs" />
+    <ProjectReference Include="..\P90.Core\P90.Core.csproj" />
+    <ProjectReference Include="..\P90.DiscoveryFixture\P90.DiscoveryFixture.csproj" ReferenceOutputAssembly="false" />
+    <ProjectReference Include="..\P90.Samples.Lifecycle\P90.Samples.Lifecycle.csproj" />
+    <ProjectReference Include="..\P90.Samples.Diagnostics\P90.Samples.Diagnostics.csproj" />
+    <ProjectReference Include="..\P90.Samples.ServerDiagnostics\P90.Samples.ServerDiagnostics.csproj" />
+  </ItemGroup>
+</Project>

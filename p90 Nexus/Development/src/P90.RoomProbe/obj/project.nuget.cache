@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aX2+lAqa4hc=",
+  "success": true,
+  "projectFilePath": "D:\\scp project90\\release\\p90 Nexus\\Development\\src\\P90.RoomProbe\\P90.RoomProbe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ft646\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ft646\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ft646\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

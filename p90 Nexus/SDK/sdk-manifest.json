@@ -1,0 +1,9 @@
+{
+  "ApiMajor": 1,
+  "TargetFramework": "net6.0",
+  "BuildSdk": "10.0.401",
+  "ApiSHA256": "373515F77F4045B9EF9DBEF9887AFE0C530B96699038FFF495A8DC168C5F888A",
+  "ExternalPluginPackages": [],
+  "Runtime": "Game loader runtime .NET 6.0.7",
+  "RefPack": "Microsoft.NETCore.App.Ref 6.0.36"
+}

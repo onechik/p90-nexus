@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><AssemblyName>A.P90.DiscoveryPlugin</AssemblyName></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../P90.API/P90.API.csproj" />
+    <ProjectReference Include="../P90.DiscoveryFixture.Support/P90.DiscoveryFixture.Support.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup><Compile Include="../P90.Rooms/Settings.cs" Link="Settings.cs" /><Compile Include="../P90.Rooms/RoomLayout.cs" Link="RoomLayout.cs" /><Compile Include="../P90.Rooms/RoomFiles.cs" Link="RoomFiles.cs" /></ItemGroup>
+</Project>
